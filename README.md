@@ -1,0 +1,2 @@
+# NewsAggregator
+RSS feed viewer
