@@ -1,2 +1,2 @@
-# NewsAggregator
+#Project Pluto
 RSS feed viewer
